@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" ,TOROS TV SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236641
+#EXTINF:-1 tvg-chno="2" tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" ,TOROS HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236640
+#EXTINF:-1 tvg-chno="3" tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" ,TOROS TV FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236639
+#EXTINF:-1 tvg-chno="4" tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" ,MOVISTAR TOROS TV
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30109
+#EXTINF:-1 tvg-chno="5" tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/834693121883643904/ZPV95ptU_400x400.jpg" ,MOVISTAR TOROS FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30039
+#EXTINF:-1 tvg-chno="6" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" ,M. DAZN LA LIGA 1 SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236745
+#EXTINF:-1 tvg-chno="7" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" ,M. DAZN LA LIGA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236744
+#EXTINF:-1 tvg-chno="8" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" ,M. DAZN LA LIGA 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236743
+#EXTINF:-1 tvg-chno="9" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" ,M. DAZN LA LIGA 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236741
+#EXTINF:-1 tvg-chno="10" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR  LA LIGA SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236740
+#EXTINF:-1 tvg-chno="11" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA HD 
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236739
+#EXTINF:-1 tvg-chno="12" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236738
+#EXTINF:-1 tvg-chno="13" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR  LA LIGA FHD H.265
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236737
+#EXTINF:-1 tvg-chno="14" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA (OP B)
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236736
+#EXTINF:-1 tvg-chno="15" tvg-country="ES" tvg-logo="https://laligatvbar.es/meta-image.jpg" ,LALIGATV BAR SD 
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236735
+#EXTINF:-1 tvg-chno="16" tvg-country="ES" tvg-logo="https://laligatvbar.es/meta-image.jpg" ,LA LIGA TV BAR HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236734
+#EXTINF:-1 tvg-chno="17" tvg-country="ES" tvg-logo="https://laligatvbar.es/meta-image.jpg" LIGATV BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236733
+#EXTINF:-1 tvg-chno="18" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA 1( SOLO EVENTO)
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236732
+#EXTINF:-1 tvg-chno="19" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236731
+#EXTINF:-1 tvg-chno="20" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,MOVISTAR LA LIGA 1 FHD 
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236730
+#EXTINF:-1 tvg-chno="21" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png" ,MOVISTAR LA LIGA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236729
+#EXTINF:-1 tvg-chno="22" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png" ,MOVISTAR  LA LIGA 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236728
+#EXTINF:-1 tvg-chno="23" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_3.png" ,MOVISTAR  LA LIGA 3 SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236727
+#EXTINF:-1 tvg-chno="24" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_3.png" ,MOVISTAR LA LIGA 3 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236726
+#EXTINF:-1 tvg-chno="25" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_3.png" ,MOVISTAR LA LIGA 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236725
+#EXTINF:-1 tvg-chno="26" tvg-country="ES" tvg-logo="https://assets.laliga.com/assets/2022/08/02/medium/cb48ccc37d461281f3f5a5dbfa1b47d7.jpeg" ,ES: LA LIGA SMARTBANK  TV SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236960
+#EXTINF:-1 tvg-chno="27" tvg-country="ES" tvg-logo="https://assets.laliga.com/assets/2022/08/02/medium/cb48ccc37d461281f3f5a5dbfa1b47d7.jpeg" ,LA LIGA SMARTBANK TV HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236959
+#EXTINF:-1 tvg-chno="28" tvg-country="ES" tvg-logo="https://assets.laliga.com/assets/2022/08/02/medium/cb48ccc37d461281f3f5a5dbfa1b47d7.jpeg" ,LA LIGA SMARTBANK TV FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236958
+#EXTINF:-1 tvg-chno="29" tvg-country="ES" tvg-logo="https://assets.laliga.com/assets/2022/08/02/medium/cb48ccc37d461281f3f5a5dbfa1b47d7.jpeg" ,LA LIGA SMARTBANK TV FHD (OP1)
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236957
+#EXTINF:-1 tvg-chno="30" tvg-country="ES" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" ,DAZN MOVISTAR  F1 
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236696
+#EXTINF:-1 tvg-chno="31" tvg-country="ES" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" ,DAZN MOVISTAR F1 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236695
+#EXTINF:-1 tvg-chno="32" tvg-country="ES" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" ,DAZN MOVISTAR F1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236694
+#EXTINF:-1 tvg-chno="33" tvg-country="ES" tvg-logo="https://satcesc.com/wp-content/uploads/2020/01/DAZN-F1.jpg" ,DAZN MOVISTAR F1 4K
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236693
+#EXTINF:-1 tvg-chno="34" tvg-country="ES" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/movistarplus/deportes/img/dazn-1.jpg" ,DAZN MOVISTAR 1
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236692
+#EXTINF:-1 tvg-chno="35" tvg-country="ES" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/movistarplus/deportes/img/dazn-1.jpg" ,DAZN MOVISTAR 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236691
+#EXTINF:-1 tvg-chno="36" tvg-country="ES" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/movistarplus/deportes/img/dazn-1.jpg" ,DAZN MOVISTAR 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236690
+#EXTINF:-1 tvg-chno="37" tvg-country="ES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.png" ,DAZN MOVISTAR 2
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236689
+#EXTINF:-1 tvg-chno="38" tvg-country="ES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.png" ,DAZN MOVISTAR 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236688
+#EXTINF:-1 tvg-chno="39" tvg-country="ES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.png" ,DAZN MOVISTAR 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236687
+#EXTINF:-1 tvg-chno="40" tvg-country="ES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/147x114/dazn-2.png" ,DAZN MOVISTAR 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236686
+#EXTINF:-1 tvg-chno="41" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" ,DAZN MOVISTAR 3 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236685
+#EXTINF:-1 tvg-chno="42" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" ,DAZN MOVISTAR 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236684
+#EXTINF:-1 tvg-chno="43" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" ,DAZN MOVISTAR 4 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236683
+#EXTINF:-1 tvg-chno="44" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" ,DAZN MOVISTAR 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236682
+#EXTINF:-1 tvg-chno="45" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,M. LaLiga HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149070
+#EXTINF:-1 tvg-chno="46" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,M.LALIGA
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30212
+#EXTINF:-1 tvg-chno="47" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" ,M.LALIGA
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103244
+#EXTINF:-1 tvg-chno="48" tvg-country="ES" tvg-logo="https://laligatvbar.es/meta-image.jpg" ,M.LALIGA TV BAR HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103306
+#EXTINF:-1 tvg-chno="49" tvg-country="ES" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" ,M.LALIGA 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103245
+#EXTINF:-1 tvg-chno="50" tvg-country="ES" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" ,M.LALIGA
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103305
+#EXTINF:-1 tvg-chno="51" tvg-country="ES" tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" ,M.LALIGA FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103304
+#EXTINF:-1 tvg-chno="52" tvg-country="ES" tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_1.png" ,M.LALIGA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103296
+#EXTINF:-1 tvg-chno="53" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,M.LIGA DE CAMPEONES 1
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103307
+#EXTINF:-1 tvg-chno="54" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.LIGA DE CAMPEONES 2
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103308
+#EXTINF:-1 tvg-chno="55" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M.LIGA DE CAMPEONES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103309
+#EXTINF:-1 tvg-chno="56" tvg-country="ES" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_1_757c_412_1_c00000_0_0_0.png" ,M.LIGA DE CAMPEONES 4
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/103310
+#EXTINF:-1 tvg-chno="57" tvg-country="ES" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_1_757c_412_1_c00000_0_0_0.png" ,LIGA DE CAMPEONES 4  Espa
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30120
+#EXTINF:-1 tvg-chno="58" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA CAMPEONES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30026
+#EXTINF:-1 tvg-chno="59" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,LIGA CAMPEONES
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30025
+#EXTINF:-1 tvg-chno="60" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,LIGA DE CAMPEONES FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30121
+#EXTINF:-1 tvg-chno="61" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,LIGA DE CAMPEONES 1 Espa
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30128
+#EXTINF:-1 tvg-chno="62" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,LIGA DE CAMPEONES 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30041
+#EXTINF:-1 tvg-chno="63" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2  Espa
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30127
+#EXTINF:-1 tvg-chno="64" tvg-country="ES" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.wVlLVAp-zp.jpg" ,LIGA CAMPEONES
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30130
+#EXTINF:-1 tvg-chno="65" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LA LIGATV BAR
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30137
+#EXTINF:-1 tvg-chno="66" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LALIGATV BAR 1
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30119
+#EXTINF:-1 tvg-chno="67" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30024
+#EXTINF:-1 tvg-chno="68" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1" ,M.LALIGA FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30202
+#EXTINF:-1 tvg-chno="69" tvg-country="ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LALIGATV BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/30040
+#EXTINF:-1 tvg-chno="70" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,Dazn 1 Espana FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149075
+#EXTINF:-1 tvg-chno="71" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,Dazn 1 Espana HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149074
+#EXTINF:-1 tvg-chno="72" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,Dazn 2 Espana FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149073
+#EXTINF:-1 tvg-chno="73" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,Dazn 2 Espana HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149072
+#EXTINF:-1 tvg-chno="74" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,M. Dazn 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149068
+#EXTINF:-1 tvg-chno="75" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,M. Dazn 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149067
+#EXTINF:-1 tvg-chno="76" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,M. Dazn 1 SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149066
+#EXTINF:-1 tvg-chno="77" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,M. Dazn 2 SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/149065
+#EXTINF:-1 tvg-chno="78" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,DAZN HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/48681
+#EXTINF:-1 tvg-chno="79" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" ,DAZN FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/48680
+#EXTINF:-1 tvg-chno="80" tvg-country="ES" tvg-logo="https://www.justpushstart.com/wp-content/uploads/2014/03/MotoGP.png" ,DAZN MOTO GP FHD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/86823
+#EXTINF:-1 tvg-chno="81" tvg-country="ES" tvg-logo="https://www.justpushstart.com/wp-content/uploads/2014/03/MotoGP.png" ,DAZN MOTO GP HD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/86822
+#EXTINF:-1 tvg-chno="82" tvg-country="ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" ,M. DAZN LA LIGA 2 SD
+#EXTVLCOPT:network-caching=1000
+http://tifu.rip:8000/017984874442248/222393610327072/236742
